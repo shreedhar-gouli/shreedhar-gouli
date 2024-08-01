@@ -50,12 +50,7 @@ I'm a passionate **Angular Developer** with 3 years of experience. I excel at cr
 - Engineered REST APIs and Spring Boot services for high-performance integration.
 - Optimized data processing and ensured robust software quality.
 
-## 🎨 GitHub Stats & Contributions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreedhar-gouli&show_icons=true&hide_title=true&hide=contribs,prs&count_private=true&include_all_commits=true&theme=gruvbox" alt="Shreedhar's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreedhar-gouli&theme=gruvbox" alt="GitHub Streak" />
-</p>
 
 ## 📈 Top Languages
 
