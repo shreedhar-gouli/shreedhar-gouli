@@ -8,8 +8,8 @@
 
 <!-- Profile and Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreedhar777&show_icons=true&hide_title=true&hide=contribs,prs&count_private=true&include_all_commits=true&theme=radical" alt="Shreedhar's GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreedhar777&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=shreedhar-gouli&show_icons=true&hide_title=true&hide=contribs,prs&count_private=true&include_all_commits=true&theme=radical" alt="Shreedhar's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreedhar-gouli&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ## 🚀 About Me
