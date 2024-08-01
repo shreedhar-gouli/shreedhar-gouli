@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-Shreedhar%20Gouli-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   <img src="https://img.shields.io/badge/Email-shreedharsiri784@gmail.com-red?logo=gmail&logoColor=white" alt="Email" />
-  <img src="https://img.shields.io/badge/GitHub-shreedhar777-black?logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-shreedhar-gouli-black?logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 <!-- Animated Banner -->
