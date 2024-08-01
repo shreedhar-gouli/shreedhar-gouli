@@ -58,19 +58,7 @@ I'm a passionate **Angular Developer** with 3 years of experience. I excel at cr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreedhar-gouli&layout=compact&theme=gruvbox" alt="Top Languages" />
 </p>
 
-## 🌟 Activity & Contributions
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=shreedhar-gouli&theme=github-dark" alt="GitHub Activity Graph" />
-</p>
-
-## 🚀 Featured Projects
-
-- **[Project 1](#)**: A brief description of the project highlighting its features and technologies used.
-- **[Project 2](#)**: A brief description of the project highlighting its features and technologies used.
-- **[Project 3](#)**: A brief description of the project highlighting its features and technologies used.
-
----
 
 <p align="center">
   <i>Thanks for visiting my profile! Feel free to connect or explore my projects. 😊</i>
