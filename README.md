@@ -18,7 +18,7 @@ I'm a passionate **Angular Developer** with 3 years of experience. I excel at cr
 - 🔧 **Technologies:** Angular, TypeScript, JavaScript, Java, Spring Boot
 - 🌍 **Location:** Bangalore, Karnataka, India
 - 📧 **Contact:** [shreedharsiri784@gmail.com](mailto:shreedharsiri784@gmail.com)
-- 🔗 **Connect with me:** [LinkedIn](https://linkedin.com/in/shreedhar-gouli) | [GitHub](https://github.com/shreedhar777)
+- 🔗 **Connect with me:** [LinkedIn](https://linkedin.com/in/shreedhar-gouli) | [GitHub](https://github.com/shreedhar-gouli)
 
 ## 🛠 Skills & Technologies
 
@@ -60,7 +60,7 @@ I'm a passionate **Angular Developer** with 3 years of experience. I excel at cr
 ## 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreedhar777&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreedhar-gouli&layout=compact&theme=gruvbox" alt="Top Languages" />
 </p>
 
 ## 🌟 Activity & Contributions
