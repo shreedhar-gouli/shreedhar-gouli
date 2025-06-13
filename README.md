@@ -13,9 +13,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Angular Developer** with 3 years of experience. I excel at creating responsive UI components, modernizing legacy applications, and developing RESTful APIs. My recent work involves migrating high-traffic applications, reducing load times by 40%, and improving performance through advanced techniques.
+I'm a passionate Angular Developer with 3.8+ years of hands-on experience building scalable, high-performance web applications. I specialize in crafting responsive UI components, optimizing frontend performance, and transforming legacy systems into modern, maintainable codebases.
 
-- 🔧 **Technologies:** Angular, TypeScript, JavaScript, Java, Spring Boot
+- 🔧 **Technologies:** Angular, TypeScript, JavaScript, HTML, CSS, Jasmine, Karma, Accessibility
 - 🌍 **Location:** Bangalore, Karnataka, India
 - 📧 **Contact:** [shreedharsiri784@gmail.com](mailto:shreedharsiri784@gmail.com)
 - 🔗 **Connect with me:** [LinkedIn](https://linkedin.com/in/shreedhar-gouli) | [GitHub](https://github.com/shreedhar-gouli)
@@ -38,11 +38,12 @@ I'm a passionate **Angular Developer** with 3 years of experience. I excel at cr
 ### **Virtusa Consulting Services Private Limited** (Sep 2021 - Present)
 
 #### **GTM Modernization - Angular Developer** (May 2023 - Present)
-- Developed pages using Figma designs, ensuring high-quality UI/UX.
-- Modernized ASP.net applications to Angular 14 with TypeScript and SCSS.
-- Built responsive UI components with Angular Material and Wijmo Grid.
-- Integrated REST APIs with .NET Core and optimized performance with lazy loading.
-- Achieved 85% code coverage with Jasmine and Karma.
+- Currently developing pages using Angular 17, adhering to accessibility standards and referencing Figma designs for precise UI implementation.
+- Modernized legacy web application (ASP.NET) to Angular 14 using TypeScript and SCSS.
+- Created responsive and adaptive UI components using Angular Material and Wijmo Grid.
+- Consumed REST APIs developed with .NET Core for full CRUD operations, and implemented lazy loading to optimize performance.
+- Wrote unit test cases using Jasmine and Karma, achieving 85% code coverage.
+- Developed reactive forms, routing, services, directives, and pipes following Angular best practices.
 
 #### **BT MYSD Project - Full Stack Developer** (Sep 2021 - May 2023)
 - Created responsive UI components with Angular, HTML, CSS, and Bootstrap.
