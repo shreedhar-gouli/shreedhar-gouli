@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Angular Developer with 3.8+ years of hands-on experience building scalable, high-performance web applications. I specialize in crafting responsive UI components, optimizing frontend performance, and transforming legacy systems into modern, maintainable codebases.
+I'm a passionate Angular Developer with 4.8+ years of hands-on experience building scalable, high-performance web applications. I specialize in crafting responsive UI components, optimizing frontend performance, and transforming legacy systems into modern, maintainable codebases.
 
 - 🔧 **Technologies:** Angular (upto 22), TypeScript, JavaScript, HTML, CSS, Jasmine, Karma, Accessibility, Java, MySQL, AWS, SpringBoot, Jest
 - 🌍 **Location:** Bangalore, Karnataka, India
