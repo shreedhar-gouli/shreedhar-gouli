@@ -33,23 +33,7 @@ I'm a passionate Angular Developer with 3.8+ years of hands-on experience buildi
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white" alt="Visual Studio" />
 </p>
 
-## 💼 Experience
-
-### **Virtusa Consulting Services Private Limited** (Sep 2021 - Present)
-
-#### **GTM Modernization - Angular Developer** (May 2023 - Present)
-- Currently developing pages using Angular 17, adhering to accessibility standards and referencing Figma designs for precise UI implementation.
-- Modernized legacy web application (ASP.NET) to Angular 14 using TypeScript and SCSS.
-- Created responsive and adaptive UI components using Angular Material and Wijmo Grid.
-- Consumed REST APIs developed with .NET Core for full CRUD operations, and implemented lazy loading to optimize performance.
-- Wrote unit test cases using Jasmine and Karma, achieving 85% code coverage.
-- Developed reactive forms, routing, services, directives, and pipes following Angular best practices.
-
-#### **BT MYSD Project - Full Stack Developer** (Sep 2021 - May 2023)
-- Created responsive UI components with Angular, HTML, CSS, and Bootstrap.
-- Migrated from AngularJS to Angular 10, reducing load times by 40%.
-- Engineered REST APIs and Spring Boot services for high-performance integration.
-- Optimized data processing and ensured robust software quality.
+342737
 
 
 
