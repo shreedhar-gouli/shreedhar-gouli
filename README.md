@@ -33,7 +33,33 @@ I'm a passionate Angular Developer with 3.8+ years of hands-on experience buildi
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white" alt="Visual Studio" />
 </p>
 
-342737
+## 💼 Experience
+
+### **Solifi India Private Limited** (Jul 2025 - Present)
+
+#### **Experience Hub – SDE**
+- Developing the Experience Hub platform using Angular 20, integrating multiple Solifi products through scalable and modular frontend architecture.
+- Implementing unit tests with Jest to enhance application quality, reliability, and maintainability.
+- Translating Figma designs into pixel-perfect, responsive, and user-centric interfaces.
+- Contributing to infrastructure automation initiatives using Terraform.
+- Performing code reviews for contractor deliverables, ensuring code quality, consistency, and adherence to engineering standards.
+- Providing technical guidance and resolving complex challenges related to Angular, TypeScript, and frontend architecture.
+
+### **Virtusa Consulting Services Private Limited** (Sep 2021 - Jul 2025)
+
+#### **GTM Modernization - Angular Developer** (May 2023 - Jun 2025)
+- Developed pages using Angular 17, adhering to accessibility standards and translating Figma designs into precise UI implementations.
+- Modernized a legacy ASP.NET application to Angular 14 using TypeScript and SCSS.
+- Built responsive and adaptive UI components using Angular Material and Wijmo Grid.
+- Integrated REST APIs developed with .NET Core for CRUD operations and implemented lazy loading to improve application performance.
+- Developed unit tests using Jasmine and Karma, achieving 85% code coverage.
+- Built reactive forms, routing modules, services, directives, and pipes following Angular best practices.
+
+#### **BT MYSD Project - Full Stack Developer** (Sep 2021 - May 2023)
+- Designed and implemented responsive UI components using Angular, HTML, CSS, and Bootstrap.
+- Led the migration of a high-traffic telecom application from AngularJS to Angular 10, reducing load times by 40%.
+- Developed REST APIs integrating frontend and backend systems, improving data processing efficiency by 40%.
+- Ensured software quality through testing, debugging, performance tuning, and SEO optimization, including lazy loading implementation.
 
 
 
