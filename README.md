@@ -15,7 +15,7 @@
 
 I'm a passionate Angular Developer with 3.8+ years of hands-on experience building scalable, high-performance web applications. I specialize in crafting responsive UI components, optimizing frontend performance, and transforming legacy systems into modern, maintainable codebases.
 
-- 🔧 **Technologies:** Angular, TypeScript, JavaScript, HTML, CSS, Jasmine, Karma, Accessibility
+- 🔧 **Technologies:** Angular (upto 22), TypeScript, JavaScript, HTML, CSS, Jasmine, Karma, Accessibility, Java, MySQL, AWS, SpringBoot, Jest
 - 🌍 **Location:** Bangalore, Karnataka, India
 - 📧 **Contact:** [shreedharsiri784@gmail.com](mailto:shreedharsiri784@gmail.com)
 - 🔗 **Connect with me:** [LinkedIn](https://linkedin.com/in/shreedhar-gouli) | [GitHub](https://github.com/shreedhar-gouli)
